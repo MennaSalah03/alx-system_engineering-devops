@@ -1,0 +1,2 @@
+#!/bin/bash
+print ".." && ls --format=comma -ap [0-9]*  && printf "\n" 
