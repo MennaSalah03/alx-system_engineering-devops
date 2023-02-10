@@ -1,0 +1,1 @@
+permisions in linux shell
