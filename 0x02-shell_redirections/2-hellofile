@@ -1,2 +1,2 @@
 #!/bin/bash
-lss etc/passwd
+cat etc/passwd
